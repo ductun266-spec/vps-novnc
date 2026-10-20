@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dad-senator-born-physiology.trycloudflare.com/vnc.html
+URL       : https://landscape-wish-named-amp.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-20 02:59:05
+Created   : 2026-10-20 09:47:55
 =======================================================
