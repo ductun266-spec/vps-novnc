@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://transportation-sound-updating-component.trycloudflare.com/vnc.html
+URL       : https://life-short-knew-outline.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-25 14:05:49
+Created   : 2026-10-25 18:03:56
 =======================================================
