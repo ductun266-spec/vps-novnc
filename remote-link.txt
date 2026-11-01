@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://abc-heritage-pix-throw.trycloudflare.com/vnc.html
+URL       : https://wednesday-builds-its-municipal.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-01 03:46:32
+Created   : 2026-11-01 11:39:02
 =======================================================
